@@ -1,4 +1,4 @@
-# [WIP] Echo with DB(Firebase Realtime Database) Example
+# Echo with DB(Firebase Realtime Database) Example
 You need `gactions cli` to set up your project. If you do not have the environment to use gactions, you can install [here](https://developers.google.com/actions/tools/gactions-cli).
 ## Set up
 - Run `$ npm run firebase -- login`
